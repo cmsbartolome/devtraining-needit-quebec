@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Create">f7f4e4992fb0701013a2808cf699b68e</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name>u_requested_for</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>true</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Requested for Email</name>
+        <order>20</order>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 06:18:18</sys_created_on>
+        <sys_id>603620d92fb0701013a2808cf699b6e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested for Email</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_603620d92fb0701013a2808cf699b6e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 06:18:18</sys_updated_on>
+        <table_name>x_58872_needit_needit</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=603620d92fb0701013a2808cf699b6e8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b87d34dfdb36889052cec59705961901</instance_id>
+        <instance_name>dev100343</instance_name>
+        <name>sys_sg_ui_parameter_603620d92fb0701013a2808cf699b6e8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Create">f7f4e4992fb0701013a2808cf699b68e</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name>u_requested_for</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>text</input_type><mandatory>true</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>Requested for Email</name><order>20</order><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-16 06:18:18</sys_created_on><sys_id>603620d92fb0701013a2808cf699b6e8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Requested for Email</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_ui_parameter_603620d92fb0701013a2808cf699b6e8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-16 06:18:18</sys_updated_on><table_name>x_58872_needit_needit</table_name><virtual_field_value>false</virtual_field_value></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=603620d92fb0701013a2808cf699b6e8"/></record_update>]]></payload>
+        <payload_hash>-1130970787</payload_hash>
+        <record_name>Requested for Email</record_name>
+        <reverted_from/>
+        <source>9fbac59b2fac701013a2808cf699b6f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 06:18:18</sys_created_on>
+        <sys_id>a43620d92fb0701013a2808cf699b6eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a1378715f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 06:18:18</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>ec3620d966b070106d7183d11cc580ea</update_guid>
+        <update_guid_history>ec3620d966b070106d7183d11cc580ea:-1130970787</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 06:28:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>7979660a50d344349a63d8b9a63ca924</sys_id>
+        <sys_metadata>603620d92fb0701013a2808cf699b6e8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested for Email</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_603620d92fb0701013a2808cf699b6e8</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_603620d92fb0701013a2808cf699b6e8">a43620d92fb0701013a2808cf699b6eb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 06:28:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

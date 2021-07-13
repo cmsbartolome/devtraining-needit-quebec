@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Create">62ec3f892f30701013a2808cf699b647</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name>priority</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>true</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Priority</name>
+        <order>60</order>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 05:19:36</sys_created_on>
+        <sys_id>bc46d09d2f70701013a2808cf699b6bc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_bc46d09d2f70701013a2808cf699b6bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 05:42:06</sys_updated_on>
+        <table_name>x_58872_needit_needit</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=bc46d09d2f70701013a2808cf699b6bc"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b87d34dfdb36889052cec59705961901</instance_id>
+        <instance_name>dev100343</instance_name>
+        <name>sys_sg_ui_parameter_bc46d09d2f70701013a2808cf699b6bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Create">62ec3f892f30701013a2808cf699b647</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name>priority</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>list</input_type><mandatory>true</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>Priority</name><order>60</order><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-16 05:19:36</sys_created_on><sys_id>bc46d09d2f70701013a2808cf699b6bc</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Priority</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_ui_parameter_bc46d09d2f70701013a2808cf699b6bc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-16 05:42:06</sys_updated_on><table_name>x_58872_needit_needit</table_name><virtual_field_value>false</virtual_field_value></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=bc46d09d2f70701013a2808cf699b6bc"/></record_update>]]></payload>
+        <payload_hash>-513361199</payload_hash>
+        <record_name>Priority</record_name>
+        <reverted_from/>
+        <source>9fbac59b2fac701013a2808cf699b6f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 05:42:06</sys_created_on>
+        <sys_id>d6ed90152fb0701013a2808cf699b6a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a13574ca10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 05:42:06</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>12ed90153db07010570fc68b565199a2</update_guid>
+        <update_guid_history>12ed90153db07010570fc68b565199a2:-513361199,3009d411ddb070108dea0380350682cf:-357179239,2cc8d4113eb0701054366e21cbda11c8:-1697638176</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 06:12:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>14d1143177c34970bceaf83afcf74084</sys_id>
+        <sys_metadata>bc46d09d2f70701013a2808cf699b6bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_bc46d09d2f70701013a2808cf699b6bc</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_bc46d09d2f70701013a2808cf699b6bc">d6ed90152fb0701013a2808cf699b6a2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 06:12:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

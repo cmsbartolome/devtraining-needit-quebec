@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Create">f7f4e4992fb0701013a2808cf699b68e</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="icon-Plus-Solid">032185212f30b01013a2808cf699b688</icon>
+        <label>Create</label>
+        <location>quick_action</location>
+        <name>Create</name>
+        <order/>
+        <parent>1ca523782ff0301013a2808cf699b6eb</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-17 02:54:39</sys_created_on>
+        <sys_id>db2185212f30b01013a2808cf699b68b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_db2185212f30b01013a2808cf699b68b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-17 02:54:39</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=db2185212f30b01013a2808cf699b68b"/>
+</record_update>
